@@ -16,4 +16,5 @@
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 sed -i '$a src-git liuran001_packages https://github.com/liuran001/openwrt-packages' feeds.conf.default
-git clone https://github.com/XiaoLrrr/feed-netkeeper/tree/LUCI-JS-UCITRACK package/feed-netkeeper/tree/LUCI-JS-UCITRACK
+git clone https://github.com/XiaoLrrr/feed-netkeeper/tree/LUCI-JS-UCITRACK package/feed-netkeeper
+git clone https://github.com/sirpdboy/luci-theme-opentopd package/luci-theme-opentopd 
