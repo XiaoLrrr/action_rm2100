@@ -1,9 +1,6 @@
 # Actions-OpenWrt
 
 使用 GitHub Actions 云编译 带有 闪讯拨号插件（Netkeeper）的OpenWrt编译项目——适用于软路由x86 64 默认适用于软路由x86 64
-Build OpenWrt using GitHub Actions
-
-[Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 ## Tips
 
